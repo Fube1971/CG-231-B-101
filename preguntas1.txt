@@ -1,0 +1,18 @@
+ 3.1 Cuando los tres factores de escala son iguales, se denomina escalado uniforme.
+Ahora, lee y contesta las siguientes cuestiones:
+
+1)¿Que ocurre si los factores de escala son diferentes entre si?
+
+  Cuando estos son diferentes el objeto se modifica segun a como estan los valores de escala en esa unidad.
+
+2)¿Y si algun factor de escala es cero? 
+
+  Si algun valor es zero, entonces en esa unidad desapareceria la escala volviendola nula.
+
+3)¿Que ocurre si uno o varios factores de escala son negativos?
+
+  Si un factor de escala es negativo, entonces este no seria posible de solucionar.
+
+4)¿Y si el factor de escala esta entre cero y uno?
+
+  En este caso el objeto se reduciria.
